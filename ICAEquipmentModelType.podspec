@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ICAEquipmentModelType'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ICAEquipmentModelType.'
+  s.summary          = 'This is a helper to do a mapping from response into equipment data which has localise string'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/wahyusumartha/ICAEquipmentModelType'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'wahyusumartha' => 'wahyu.sumartha@icarasia.com' }
+  s.author           = { 'wahyusumartha' => 'wahyusumartha@gmail.com' }
   s.source           = { :git => 'https://github.com/wahyusumartha/ICAEquipmentModelType.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
