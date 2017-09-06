@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+public enum ICAEquipmentModelConfig: Int {
+  case my = 0
+  case id
+  case th
+}
