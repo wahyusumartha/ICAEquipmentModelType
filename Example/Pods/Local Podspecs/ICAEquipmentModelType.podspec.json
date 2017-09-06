@@ -1,0 +1,22 @@
+{
+  "name": "ICAEquipmentModelType",
+  "version": "0.1.0",
+  "summary": "A short description of ICAEquipmentModelType.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wahyusumartha/ICAEquipmentModelType",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wahyusumartha": "wahyu.sumartha@icarasia.com"
+  },
+  "source": {
+    "git": "https://github.com/wahyusumartha/ICAEquipmentModelType.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ICAEquipmentModelType/Classes/**/*"
+}

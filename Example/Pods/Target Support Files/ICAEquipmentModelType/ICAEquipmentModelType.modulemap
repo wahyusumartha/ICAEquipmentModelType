@@ -1,0 +1,6 @@
+framework module ICAEquipmentModelType {
+  umbrella header "ICAEquipmentModelType-umbrella.h"
+
+  export *
+  module * { export * }
+}
